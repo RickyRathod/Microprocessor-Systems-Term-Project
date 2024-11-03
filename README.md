@@ -1,1 +1,1 @@
-# COE-538-Labs-Project
+EEbot Term Project
